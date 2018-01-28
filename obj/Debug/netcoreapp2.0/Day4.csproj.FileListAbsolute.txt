@@ -1,0 +1,10 @@
+/home/namnguyen/laptrinh/c#/exercise/Day4/obj/Debug/netcoreapp2.0/Day4.csproj.CoreCompileInputs.cache
+/home/namnguyen/laptrinh/c#/exercise/Day4/obj/Debug/netcoreapp2.0/Day4.AssemblyInfoInputs.cache
+/home/namnguyen/laptrinh/c#/exercise/Day4/obj/Debug/netcoreapp2.0/Day4.AssemblyInfo.cs
+/home/namnguyen/laptrinh/c#/exercise/Day4/bin/Debug/netcoreapp2.0/Day4.deps.json
+/home/namnguyen/laptrinh/c#/exercise/Day4/bin/Debug/netcoreapp2.0/Day4.runtimeconfig.json
+/home/namnguyen/laptrinh/c#/exercise/Day4/bin/Debug/netcoreapp2.0/Day4.runtimeconfig.dev.json
+/home/namnguyen/laptrinh/c#/exercise/Day4/bin/Debug/netcoreapp2.0/Day4.dll
+/home/namnguyen/laptrinh/c#/exercise/Day4/bin/Debug/netcoreapp2.0/Day4.pdb
+/home/namnguyen/laptrinh/c#/exercise/Day4/obj/Debug/netcoreapp2.0/Day4.dll
+/home/namnguyen/laptrinh/c#/exercise/Day4/obj/Debug/netcoreapp2.0/Day4.pdb
